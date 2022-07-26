@@ -1,0 +1,38 @@
+[
+  {
+    "precio": 850,
+    "id": 1,
+    "title": "Gigant tomo 9",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/399/159/products/gigant09-arg1-58598adf2e119b14e616583381378149-480-0.jpg"
+  },
+  {
+    "precio": 850,
+    "id": 2,
+    "title": "Fairy Tail tomo 1",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/399/159/products/fairytail011-464d014caacf8b839115682164696903-480-0.jpg"
+  },
+  {
+    "precio": 750,
+    "id": 3,
+    "title": "Dragon Ball Super tomo 14",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/399/159/products/dragonballsuper141-c3e9745c2a2c284aba16142632910521-480-0.jpg"
+  },
+  {
+    "precio": 750,
+    "id": 4,
+    "title": "One Piece tomo 30",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/399/159/products/onepiece301-53bdc667dc82dfe71416571229663605-480-0.jpg"
+  },
+  {
+    "precio": 850,
+    "id": 5,
+    "title": "Ajin tomo 10",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/399/159/products/ajin101-32b75d269f07d0379615923356268475-480-0.jpg"
+  },
+  {
+    "precio": 600,
+    "id": 6,
+    "title": "Bakuman tomo 3",
+    "thumbnailUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/399/159/products/bakuman031-0ff6e237c98b99eb9415686793748211-480-0.jpg"
+  }
+]
